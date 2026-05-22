@@ -1,0 +1,7 @@
+{
+  "terminal.integrated.env.linux": {
+    "ROS_DISTRO": "humble",
+    "AMENT_PREFIX_PATH": "/opt/ros/jazzy",
+    "COLCON_PREFIX_PATH": "/opt/ros/jazzy"
+  }
+}
